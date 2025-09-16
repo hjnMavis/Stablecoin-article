@@ -6,7 +6,7 @@
 
 ### **1) 유형·구조**
 
-- 법정화폐 담보형(USDT, USDC, PYUSD 등): 발행사가 현금·단기국채 등으로 준비자산 100% 이상을 보유하고 상시 상환. **투명성(준비금 공시/감사)**가 신뢰의 핵심. (USDC는 매월 제3자 보증·공시, 주간 리포트 제공) [Circle+1](https://www.circle.com/transparency?utm_source=chatgpt.com)
+- 법정화폐 담보형(USDT, USDC, PYUSD 등): 발행사가 현금·단기국채 등으로 준비자산 100% 이상을 보유하고 상시 상환. **투명성(준비금 공시/감사)**가 신뢰의 핵심. (USDC는 매월 제3자 보증·공시, 주간 리포트 제공) 
 - 암호자산 담보형(DAI 등): 과담보·자동 청산 구조로 탈중앙성↑, 다만 담보 변동성·청산 리스크 존재.
 - 알고리즘형(순수·혼합): 공급 자동조절로 페그 유지 시도. 순수 알고리즘형은 역사적으로 붕괴 사례가 있어 준비자산+알고리즘 혼합형으로 진화 중.
 
@@ -39,7 +39,7 @@
 
 1. 온램프: 사용자가 카드/계좌로 스테이블코인 구매 → 지갑 입금
 2. 결제 요청: 인보이스/QR/웹 체크아웃에서 금액·체인 선택
-3. 네트워크 전송: 수 초~수 분 내 최종성 확보(체인별 상이) [Visa](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html?utm_source=chatgpt.com)
+3. 네트워크 전송: 수 초~수 분 내 최종성 확보(체인별 상이) 
 4. 수납/자동분배: 상인 지갑 입금 → 필요 시 자동 청구·분배(세금·수수료)
 5. 오프로딩: 상인이 은행계좌로 환전(또는 트레저리로 보유·운용)
 6. 정산/회계: 온체인 영수증 + 회계 API 연동(환율/세금 처리)
@@ -165,6 +165,7 @@
 - 인터페이스 혁신: API/SDK로 기존 ERP/커머스에 스테이블코인 청구·정산 내재화, 프로그래머블 회계가 기본 기능이 되는 시대.
 - 상호운용·보안: 네이티브 크로스체인(CCTP), 데이터+자금 동시 전송(CCIP) 표준화로 보안성/사용성 동시 개선.
 
+---
 출처:
 
 **Investopedia — “Stablecoins: Definition, How They Work, and Types”** [https://www.investopedia.com/terms/s/stablecoin.asp](https://www.investopedia.com/terms/s/stablecoin.asp?utm_source=chatgpt.com)
